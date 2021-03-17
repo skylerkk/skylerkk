@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Skyler's GitHub Banner](./Skylers-Blog-Header-V2.png)](https://blog-ea661.web.app/)
 
 <!--
 **skylerkk/skylerkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
