@@ -34,7 +34,7 @@ Want to see all my work? [Check out my blog](https://blog-ea661.web.app/)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C-+-+&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C-plus-plus&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=4AB197)
 
 <details>
